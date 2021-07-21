@@ -1,0 +1,40 @@
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\appsettings.json
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.exe
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.deps.json
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.runtimeconfig.json
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.dll
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\ref\Recuperação d-4.dll
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.pdb
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.Views.dll
+C:\Users\DEV\Desktop\Recuperação d-4\bin\Debug\net5.0\Recuperação d-4.Views.pdb
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.csproj.AssemblyReference.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.RazorAssemblyInfo.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.RazorAssemblyInfo.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\staticwebassets\Recuperação d-4.StaticWebAssets.Manifest.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\staticwebassets\Recuperação d-4.StaticWebAssets.xml
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\scopedcss\bundle\Recuperação d-4.styles.css
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.TagHelpers.input.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.TagHelpers.output.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.RazorCoreGenerate.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.RazorTargetAssemblyInfo.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.RazorTargetAssemblyInfo.cs
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.Views.pdb
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.dll
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\ref\Recuperação d-4.dll
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.pdb
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.genruntimeconfig.cache
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.csproj.CopyComplete
