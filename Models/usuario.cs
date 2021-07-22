@@ -1,16 +1,15 @@
 namespace Recuperação_d_4.Models
 {
-    public abstract class NewBaseType
+    public class Usuario
     {
-        bool Logar = false;
-    }
-
-    public abstract class usuario : NewBaseType
-    {
-        private string nome;
-        private string senha;
-        private float email;
-
-        public abstract bool Logar();
+        public string Nome {get; set;}
+        public string Email { get; set; }
+        protected string Senha { get; set; }
+        
+        public virtual void Login(){
+            
+        }
+        
+        
     }
 }

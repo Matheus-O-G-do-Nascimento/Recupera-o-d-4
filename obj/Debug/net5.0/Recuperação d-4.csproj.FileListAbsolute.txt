@@ -38,3 +38,4 @@ C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\ref\Recuperação d-4.dl
 C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.pdb
 C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.genruntimeconfig.cache
 C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Recuperação d-4.csproj.CopyComplete
+C:\Users\DEV\Desktop\Recuperação d-4\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs

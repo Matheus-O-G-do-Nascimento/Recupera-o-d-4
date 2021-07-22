@@ -1,10 +1,11 @@
 namespace Recuperação_d_4.Controllers
 {
-      public class Musico : Models.usuario
+    public class MusicoController: Models.Usuario
     {
-        public override bool Logar()
-        {
-            throw new System.NotImplementedException();
+        public int OMB {get; set;}
+
+        public override void Login(){
+
         }
     }
 }
